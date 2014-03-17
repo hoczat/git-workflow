@@ -2,3 +2,4 @@
 feature1 start
 feature1 end
 feature2 start
+feature2 end
