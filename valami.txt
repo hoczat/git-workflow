@@ -3,3 +3,5 @@
 feature1 start
 feature1 end
 master halad
+feature2 start
+feature2 end
