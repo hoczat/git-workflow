@@ -8,3 +8,4 @@ feature2 end
 
 valami
 master megy
+master blaster
