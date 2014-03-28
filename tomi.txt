@@ -8,5 +8,3 @@ kdkd
 
 kkk
 
-feature2 start
-feature2 halad
