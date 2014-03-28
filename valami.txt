@@ -7,3 +7,4 @@ feature2 start
 feature2 end
 
 valami
+master megy
