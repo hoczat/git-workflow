@@ -9,3 +9,7 @@ feature2 end
 valami
 master megy
 master blaster
+
+
+feature-1 start
+feature-2 end
